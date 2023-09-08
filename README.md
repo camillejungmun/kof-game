@@ -4,15 +4,32 @@
 # Introducion
 Web-based King of Fighters game developed using HTML, CSS, and JavaScript. It features support for two-player battles, a timer for 60s, and health bars. Refresh the URL to restarted the game.
 
-# Operation
-## Player1
+# Download
+## clone
+```
+git clone https://github.com/camillejungmun/kof-game
+
+```
+or download zip file
+##  Run the Game
+Make sure you have a local server software installed on your computer, such as the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+##
+Open the project folder.
+##
+Right-click on the game's entry file (usually index.html) and select "Open with Live Server."
+Now, your game will run on your browser at localhost.
+##
+If you encounter any issues or have any suggestions while using the game, please feel free to contract me.
+
+## Operation
+### Player1
  Up: w  
  Down: s  
  Left: a  
  Right: d  
  Attack: sapce  
 
- ## Player2
+ ### Player2
  Up: up forward  
  Down: down forward  
  Left: left forward  
